@@ -1,7 +1,8 @@
 admin	1234
-diego	12345678
-soyyo	12345678
-Diego	Pescando12
-CORRE	Pescando12
-HolaChan	Pescando12
-Siguemeytesigojaja	Pescando12
+soyyo	Animales34
+Dieguin	Pescando34
+camila	Remando12
+osadia	Perro1234
+Marin	Parcero12
+Pepe	Parcero19
+holaheloo	Marica34
