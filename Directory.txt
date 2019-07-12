@@ -1,8 +1,10 @@
-admin	1234
+admin	Ab12345678
+diego	Pescando12
 soyyo	Animales34
 Dieguin	Pescando34
+pepito	Pescando09
 camila	Remando12
 osadia	Perro1234
 Marin	Parcero12
 Pepe	Parcero19
-holaheloo	Marica34
+holaheloo	Martinez34
