@@ -3,8 +3,7 @@ diego	Pescando12
 soyyo	Animales34
 Dieguin	Pescando34
 pepito	Pescando09
-camila	Remando12
 osadia	Perro1234
 Marin	Parcero12
 Pepe	Parcero19
-holaheloo	Martinez34
+holahelo	Martinez34
